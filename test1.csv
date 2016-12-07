@@ -1,0 +1,2 @@
+id,name,login,avatar_url,url,email,location,followers,following,created_at,updated_at
+2,Chris Wanstrath,defunkt,https://avatars.githubusercontent.com/u/2?v=3,https://api.github.com/users/defunkt,chris@github.com,San Francisco,15853,208,2007-10-20T05:24:19Z,2016-09-13T19:41:49Z
